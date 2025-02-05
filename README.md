@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical)
+
+
 <!--
 **Kennedy178/Kennedy178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
