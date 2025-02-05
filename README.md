@@ -47,7 +47,7 @@ I'm a Data Scientist & Machine Learning Enthusiast who loves working on AI-drive
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical)
 
 ### 🚀 Projects:
-- [Intelligent Housing Forecasting Model](https://github.com/predict_project)
+- [Intelligent Housing Forecasting Model](https://github.com/Kennedy178/predict_project)
 
 
 ### 💬 How to Reach Me:
