@@ -18,6 +18,7 @@ I'm a Data Scientist & Machine Learning Enthusiast who loves working on AI-drive
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-AA0000?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-00C853?style=flat-square&logo=lightgbm&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/-Random%20Forest-228B22?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-009688?style=flat-square&logo=python&logoColor=white)
