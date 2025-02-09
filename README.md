@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-I'm a Data Scientist & Machine Learning Enthusiast who loves working on AI-driven projects! 🚀
+I'm Kennedy, a Data Scientist & Machine Learning Enthusiast who loves working on AI-driven projects! 🚀
 
 ### 🔧 Technologies & Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
