@@ -42,11 +42,8 @@ I'm Kennedy, a Data Scientist & Machine Learning Enthusiast who loves working on
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical&cache_seconds=7200)
-
-
+<!-- add here 
+-->
 ### 🚀 Projects:
 - [Intelligent Housing Forecasting Model](https://github.com/Kennedy178/predict_project)
 
