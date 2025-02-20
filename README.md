@@ -44,7 +44,7 @@ I'm Kennedy, a Data Scientist & Machine Learning Enthusiast who loves working on
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical&cache_seconds=7200)
 
 
 ### 🚀 Projects:
