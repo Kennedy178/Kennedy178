@@ -53,7 +53,7 @@ I'm Kennedy, a Data Scientist, Machine Learning Enthusiast & Backend Developer w
 
 
 ### 💬 How to Reach Me:
-📫 [LinkedIn](https://linkedin.com/in/kennedy-munene-855b94279/) |  
+📫 [LinkedIn](https://linkedin.com/in/kennedy-munene-dsml/) |  
 🐦 [X (Twitter)](https://twitter.com/Kennedy_bse) |  
 💻 [Portfolio](https://www.datacamp.com/portfolio/kennedydsml) |  
 📧 [Email](mailto:kennedynene234@gmail.com)
