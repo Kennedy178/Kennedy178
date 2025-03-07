@@ -44,8 +44,8 @@ I'm Kennedy, a Data Scientist, Machine Learning Enthusiast & Backend Developer w
 
 <!-- add here 
 -->
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&theme=radical)
+[![Kennedy's github stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/Kennedy178)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical&cache_seconds=7200)
 
 ### 🚀 Projects:
