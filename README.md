@@ -1,6 +1,3 @@
-
-
-
 # Hi there! 👋
 
 I'm Kennedy, a Data Scientist, Machine Learning Enthusiast & Backend Developer who loves working on AI-driven projects! 🚀
@@ -42,15 +39,16 @@ I'm Kennedy, a Data Scientist, Machine Learning Enthusiast & Backend Developer w
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-<!-- add here 
--->
-[![Kennedy's github stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/Kennedy178)
+<!-- add here -->
+[![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&hide=contribs&theme=radical)](https://github.com/Kennedy178)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical&cache_seconds=7200)
 
+> **📝 Note:** _All of my Jupyter Notebooks contain Python code. My primary language is Python, and I use Jupyter for interactive development._
+
 ### 🚀 Projects:
 - [Intelligent Housing Forecasting Model](https://github.com/Kennedy178/predict_project)
-
 
 ### 💬 How to Reach Me:
 📫 [LinkedIn](https://linkedin.com/in/kennedy-munene-dsml/) |  
@@ -58,9 +56,4 @@ I'm Kennedy, a Data Scientist, Machine Learning Enthusiast & Backend Developer w
 💻 [Portfolio](https://www.datacamp.com/portfolio/kennedydsml) |  
 📧 [Email](mailto:kennedynene234@gmail.com)
 
-
 > "Keep coding, keep learning, and keep growing!" 🚀
-
-
-
-
