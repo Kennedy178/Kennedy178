@@ -39,7 +39,7 @@ I'm Kennedy, a Data Scientist, Machine Learning Enthusiast & Backend Developer w
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-<!-- add here -->
+<!-- add stats here -->
 [![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&hide=contribs&theme=radical)](https://github.com/Kennedy178)
 
 
