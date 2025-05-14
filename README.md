@@ -43,7 +43,7 @@ I'm Kennedy, a Data Scientist, Machine Learning Enthusiast & Backend Developer w
 [![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&hide=contribs&theme=radical)](https://github.com/Kennedy178)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical&cache_seconds=7200)
+
 
 > **📝 Note:** _All of my Jupyter Notebooks contain Python code. My primary language is Python, and I use Jupyter for interactive development._
 
