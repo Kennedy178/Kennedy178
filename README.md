@@ -40,8 +40,8 @@ I'm Kennedy, a Data Scientist, Machine Learning Enthusiast & Backend Developer w
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 <!-- add statis here -->
-[![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&hide=contribs&theme=radical)](https://github.com/Kennedy178)
-
+[![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&hide=contribs&theme=radical
+)](https://github.com/Kennedy178)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical)](https://github.com/Kennedy178)
 
 
