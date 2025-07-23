@@ -4,7 +4,7 @@
 🔬 I specialize in building intelligent, AI-driven systems with real-world impact.  
 🚀 Currently exploring ML pipelines and scalable backend APIs.
 
----
+
 
 ## ⚙️ Tech Stack & Tools
 
@@ -35,21 +35,35 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-<p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kennedy178&show_icons=true&hide=contribs&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy178&layout=compact&theme=radical" />
-</p>
 
----
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kennedy178&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4694f8&icon_color=4694f8&text_color=ffffff&ring_color=4694f8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kennedy178&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4694f8&icon_color=4694f8&text_color=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kennedy178&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=4694F8&fire=4694F8&currStreakNum=FFFFFF&currStreakLabel=4694F8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+</div>
+
+<br/>
+<div align="center">
+  <h4>📈 Contribution Graph</h4>
+  <a href="https://github.com/Kennedy178">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kennedy178&custom_title=Kennedy%20Munene's%20Contribution%20Graph&bg_color=0D1117&color=4694F8&line=61DAFB&point=FFFFFF&area=true&area_color=61DAFB&hide_border=true&radius=8" alt="Kennedy's Github Activity Graph" />
+  </a>
+</div>
+<br/>
+
+
 
 ## 🚀 Featured Project
 ### 🔗 [Intelligent Housing Forecasting Model](https://github.com/Kennedy178/predict_project)
 > A machine learning-powered housing price prediction system with backend API, real estate insights, and caching optimization.
 
----
+
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/kennedy-munene-dsml/)
@@ -57,6 +71,6 @@
 - 🌐 [Portfolio](https://www.datacamp.com/portfolio/kennedydsml)
 - 📧 [Email Me](mailto:kennedynene234@gmail.com)
 
----
+
 
 > _“Keep coding, keep learning, and keep growing.”_ 🌱
