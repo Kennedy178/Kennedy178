@@ -21,7 +21,6 @@ I'm a **Data Scientist and Backend Engineer** specializing in building **product
 
 I don't just train models-I deploy them. I don't just write APIs-I architect systems that scale. Every project I build is designed to go from prototype to production seamlessly.
 
-**What drives me:** *I don't just train models-I deploy them. I don't just write code-I ship products. From notebook to production, that's where the real work begins.*
 
 ### 🔥 What Sets Me Apart
 
