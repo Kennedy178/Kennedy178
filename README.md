@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kennedy Munene
+# 👋 Hi, I'm Kennedy
 
 ### Data Scientist | ML Engineer | Backend Architect
 
